@@ -17,5 +17,5 @@ I'm a passionate developer focused on building scalable web applications, integr
 * **Enterprise & CMS:** Odoo ERP, WordPress
 
 ## 📫 How to reach me
-- **Email:** mm0298067@gmail.com
+- **Email:** mohamadmurad2911@gmail.com
   
